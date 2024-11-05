@@ -30895,22 +30895,22 @@
         "id": 1485,
         "category": "History",
         "type": "multiple",
-        "question": "Which treaty was signed between Nepal and the East India Company in 1792?",
+        "question": "Which treaty was signed between Nepal and the East India Company in 1815?",
         "options": [
             "Treaty of Bakhim",
             "Treaty of Titalia",
             "Treaty of Kathmandu",
             "Treaty of Sugauli"
         ],
-        "answer": "Treaty of Kathmandu",
-        "question_ne": "सन् १७९२ मा नेपाल र ईस्ट इन्डिया कम्पनीबीच कुन सन्धि भएको थियो ?",
+        "answer": "Treaty of Sugauli",
+        "question_ne": "सन् 1815 मा नेपाल र ईस्ट इन्डिया कम्पनीबीच कुन सन्धि भएको थियो ?",
         "options_ne": [
             "बखिमको सन्धि",
             "Titalia को सन्धि",
             "काठमाडौं सन्धि",
             "सुगौली सन्धि"
         ],
-        "answer_ne": "काठमाडौं सन्धि"
+        "answer_ne": "सुगौली सन्धि"
     },
     {
         "id": 1486,
