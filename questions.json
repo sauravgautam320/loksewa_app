@@ -1034,10 +1034,10 @@
         "type": "boolean",
         "question": "Nepal is one of the five poorest nations.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "नेपाल पाँच अति गरिब राष्ट्र मध्ये एक हो ।",
         "options_ne": [
             "ठीक",
@@ -20980,10 +20980,10 @@
         "type": "boolean",
         "question": "The National Animal of Scotland is the Unicorn.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "स्कटल्याण्डको राष्ट्रिय जनावर युनिकोर्न हो।",
         "options_ne": [
             "बेठीक",
@@ -20997,10 +20997,10 @@
         "type": "boolean",
         "question": "Furby was released in 1998.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "Furby 1998 मा जारी भएको थियो।",
         "options_ne": [
             "ठीक",
@@ -21014,10 +21014,10 @@
         "type": "boolean",
         "question": "One of Donald Trump's 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "डोनाल्ड ट्रम्पको 2016 को राष्ट्रपति अभियान वाचा मध्ये एक संयुक्त राज्य र मेक्सिको बीच सीमा पर्खाल निर्माण थियो।",
         "options_ne": [
             "ठीक",
@@ -21031,10 +21031,10 @@
         "type": "boolean",
         "question": "The Sun rises from the North.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "सूर्य उत्तरबाट उदाउँछ।",
         "options_ne": [
             "बेठीक",
@@ -21048,10 +21048,10 @@
         "type": "boolean",
         "question": "Pluto is a planet.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "प्लुटो एक ग्रह हो।",
         "options_ne": [
             "ठीक",
@@ -21065,10 +21065,10 @@
         "type": "boolean",
         "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "यदि पुलिसले आफैलाई प्रकट नगरी तपाईलाई अवैध पदार्थहरू बेच्यो भने यसलाई संयुक्त राज्यमा स्वचालित रूपमा फन्दामा मानिन्छ।",
         "options_ne": [
             "ठीक",
@@ -21082,10 +21082,10 @@
         "type": "boolean",
         "question": "The bikini is named after the \"Bikini Atoll\", an island where the United States conducted tests on atomic bombs.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "बिकिनीको नाम \"बिकिनी एटोल\" को नामबाट राखिएको हो, जुन टापुमा संयुक्त राज्यले परमाणु बमको परीक्षण गरेको थियो।",
         "options_ne": [
             "बेठीक",
@@ -21099,10 +21099,10 @@
         "type": "boolean",
         "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "1962 मा क्यानाडाली एडवर्ड एसेलबर्ग्स द्वारा तत्काल म्यासेड आलु आविष्कार गरिएको थियो।",
         "options_ne": [
             "बेठीक",
@@ -21116,10 +21116,10 @@
         "type": "boolean",
         "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "डाइहाइड्रोजन मोनोअक्साइड सन् १९८३ मा स्विमिङ पुल र पिउने पानीमा भेटिएपछि स्वास्थ्य जोखिमका कारण प्रतिबन्ध लगाइएको थियो ।",
         "options_ne": [
             "बेठीक",
@@ -21133,10 +21133,10 @@
         "type": "boolean",
         "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "रोमानियन रोमान्स भाषा परिवारसँग सम्बन्धित छ, फ्रान्सेली, स्पेनिश, पोर्तुगाली र इटालियनसँग साझा गरिएको छ। ",
         "options_ne": [
             "बेठीक",
@@ -21150,10 +21150,10 @@
         "type": "boolean",
         "question": "There are 86400 seconds in a day.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "त्यहाँ एक दिनमा 86400 सेकेन्ड छन्।",
         "options_ne": [
             "ठीक",
@@ -21167,10 +21167,10 @@
         "type": "boolean",
         "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "2010 मा, ट्वीटर र कांग्रेसको संयुक्त राज्य पुस्तकालयले अमेरिकी नागरिकहरूले गरेको प्रत्येक ट्वीटलाई अभिलेख गर्न एकसाथ साझेदारी गर्यो।",
         "options_ne": [
             "बेठीक",
@@ -21184,10 +21184,10 @@
         "type": "boolean",
         "question": "Spoon theory is a theory, utilizing \"Spoons\" as a metaphor for energy they can use in a day.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "चम्मच सिद्धान्त एक सिद्धान्त हो, \"चम्चा\" को रूपक को रूप मा ऊर्जा को लागी एक दिन मा प्रयोग गर्न को लागी उपयोग।",
         "options_ne": [
             "ठीक",
@@ -21201,10 +21201,10 @@
         "type": "boolean",
         "question": "Dihydrogen Monoxide is a dangerous chemical.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "डाइहाइड्रोजन मोनोअक्साइड खतरनाक रसायन हो।",
         "options_ne": [
             "बेठीक",
@@ -21218,10 +21218,10 @@
         "type": "boolean",
         "question": "\"27 Club\" is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"27 क्लब\" एक शब्द हो जुन 27 वर्षको उमेरमा मृत्यु भएका प्रसिद्ध अभिनेता, संगीतकार र कलाकारहरूको सूचीलाई बुझाउन प्रयोग गरिन्छ।",
         "options_ne": [
             "ठीक",
@@ -21235,10 +21235,10 @@
         "type": "boolean",
         "question": "Sitting for more than three hours a day can cut two years off a person's life expectancy.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "दिनमा तीन घण्टाभन्दा बढी बस्दा मानिसको आयु दुई वर्ष घट्न सक्छ।",
         "options_ne": [
             "ठीक",
@@ -21252,10 +21252,10 @@
         "type": "boolean",
         "question": "\"Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.\" is a grammatically correct sentence.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"भैंसी भैंसी भैंसी भैंसी भैंसी भैंसी भैंसी भैंसी।\" व्याकरणिक रूपमा सही वाक्य हो।",
         "options_ne": [
             "ठीक",
@@ -21269,10 +21269,10 @@
         "type": "boolean",
         "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "बारहरूमा बदामको वैज्ञानिक अध्ययनले पिसाबको 100 भन्दा बढी अद्वितीय नमूनाहरू फेला पारेको छ।",
         "options_ne": [
             "ठीक",
@@ -21286,10 +21286,10 @@
         "type": "boolean",
         "question": "The Great Wall of China is visible from the moon.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "चीनको ग्रेट वाल चन्द्रमाबाट देखिन्छ।",
         "options_ne": [
             "बेठीक",
@@ -21303,10 +21303,10 @@
         "type": "boolean",
         "question": "In Scandinavian languages, the letter Å means river.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "स्क्यान्डिनेभियन भाषाहरूमा, अक्षर Å को अर्थ नदी हो।",
         "options_ne": [
             "बेठीक",
@@ -21320,10 +21320,10 @@
         "type": "boolean",
         "question": "Cucumbers are usually more than 90% water.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "काकडीहरू सामान्यतया 90% भन्दा बढी पानी हुन्छन्।",
         "options_ne": [
             "ठीक",
@@ -21337,10 +21337,10 @@
         "type": "boolean",
         "question": "You are allowed to sell your soul on eBay.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "तपाईंलाई eBay मा आफ्नो आत्मा बेच्न अनुमति छ।",
         "options_ne": [
             "ठीक",
@@ -21354,10 +21354,10 @@
         "type": "boolean",
         "question": "The term \"Spam\" came before the food product \"Spam\".",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "शब्द \"स्प्याम\" खाद्य उत्पादन \"स्प्याम\" भन्दा पहिले आयो।",
         "options_ne": [
             "बेठीक",
@@ -21371,10 +21371,10 @@
         "type": "boolean",
         "question": "\"Number 16 Bus Shelter\" was a child's name that was approved by the New Zealand government.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"नम्बर 16 बस शेल्टर\" एक बच्चाको नाम थियो जुन न्यूजील्याण्ड सरकारले स्वीकृत गरेको थियो।",
         "options_ne": [
             "ठीक",
@@ -21388,10 +21388,10 @@
         "type": "boolean",
         "question": "The scientific name for the Southern Lights is Aurora Australis?",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "दक्षिणी बत्तीको बैज्ञानिक नाम अरोरा अस्ट्रेलिस हो ?",
         "options_ne": [
             "ठीक",
@@ -21405,10 +21405,10 @@
         "type": "boolean",
         "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "अचार बनाइएको घेरकिन पहिलो पटक ह्याम्बर्गरमा थपिएको थियो किनभने अमेरिकी स्वास्थ्य कानूनले सबै फास्ट-फूडमा भिटामिन सीको स्रोत समावेश गर्न आवश्यक छ।",
         "options_ne": [
             "बेठीक",
@@ -21422,10 +21422,10 @@
         "type": "boolean",
         "question": "The vapor produced by e-cigarettes is actually water.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "ई–सिगरेटबाट उत्पादन हुने बाफ वास्तवमा पानी हो ।",
         "options_ne": [
             "बेठीक",
@@ -21439,10 +21439,10 @@
         "type": "boolean",
         "question": "The commercial UK channel ITV stands for \"International Television\".",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "व्यावसायिक यूके च्यानल ITV को \"अन्तर्राष्ट्रिय टेलिभिजन\" को लागी खडा छ।",
         "options_ne": [
             "बेठीक",
@@ -21456,10 +21456,10 @@
         "type": "boolean",
         "question": "\"Santa Claus\" is a variety of melon.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"सान्ता क्लज\" तरबूज को एक किस्म हो।",
         "options_ne": [
             "ठीक",
@@ -21473,10 +21473,10 @@
         "type": "boolean",
         "question": "Adolf Hitler was born in Australia.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "एडोल्फ हिटलरको जन्म अस्ट्रेलियामा भएको थियो ।",
         "options_ne": [
             "बेठीक",
@@ -21490,10 +21490,10 @@
         "type": "boolean",
         "question": "You can legally drink alcohol while driving in Mississippi.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "मिसिसिपीमा गाडी चलाउँदा कानुनी रूपमा रक्सी पिउन सक्नुहुन्छ।",
         "options_ne": [
             "ठीक",
@@ -21507,10 +21507,10 @@
         "type": "boolean",
         "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "औसत महिला औसत पुरुष भन्दा 5 इन्च / 13 सेन्टिमिटर छोटो छ।",
         "options_ne": [
             "बेठीक",
@@ -21524,10 +21524,10 @@
         "type": "boolean",
         "question": "An eggplant is a vegetable.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "बैंगन एउटा तरकारी हो।",
         "options_ne": [
             "बेठीक",
@@ -21541,10 +21541,10 @@
         "type": "boolean",
         "question": "Bulls are attracted to the color red.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "गोरुहरू रातो रङमा आकर्षित हुन्छन्।",
         "options_ne": [
             "बेठीक",
@@ -21558,10 +21558,10 @@
         "type": "boolean",
         "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "औसतमा, संयुक्त राज्यमा प्रत्येक घण्टामा कम्तिमा 1 व्यक्ति मादक ड्राइभरबाट मारिन्छन्।",
         "options_ne": [
             "बेठीक",
@@ -21575,10 +21575,10 @@
         "type": "boolean",
         "question": "The sum of all the numbers on a roulette wheel is 666.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "रूलेट व्हीलमा भएका सबै संख्याहरूको योगफल 666 हो।",
         "options_ne": [
             "ठीक",
@@ -21592,10 +21592,10 @@
         "type": "boolean",
         "question": "French is an official language in Canada.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "फ्रान्सेली क्यानाडामा आधिकारिक भाषा हो।",
         "options_ne": [
             "ठीक",
@@ -21609,10 +21609,10 @@
         "type": "boolean",
         "question": "This is the correct spelling of \"Supercalifragilisticexpialidocious\".",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "यो \"Supercalifragilisticexpialidocious\" को सही हिज्जे हो।",
         "options_ne": [
             "बेठीक",
@@ -21626,10 +21626,10 @@
         "type": "boolean",
         "question": "Vietnam's national flag is a red star in front of a yellow background.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "भियतनामको राष्ट्रिय झण्डा पहेंलो पृष्ठभूमिको अगाडि रातो तारा हो।",
         "options_ne": [
             "बेठीक",
@@ -21643,10 +21643,10 @@
         "type": "boolean",
         "question": "Gumbo is a stew that originated in Louisiana.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "Gumbo लुइसियाना मा उत्पन्न भएको स्टू हो।",
         "options_ne": [
             "बेठीक",
@@ -21660,10 +21660,10 @@
         "type": "boolean",
         "question": "The French word for \"glass\" is \"glace\".",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "\"ग्लास\" को लागि फ्रान्सेली शब्द \"ग्लेस\" हो।",
         "options_ne": [
             "ठीक",
@@ -21677,10 +21677,10 @@
         "type": "boolean",
         "question": "Ping-Pong originated in England",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "पिंग-पोंगको उत्पत्ति इङ्गल्याण्डमा भएको थियो",
         "options_ne": [
             "बेठीक",
@@ -21694,10 +21694,10 @@
         "type": "boolean",
         "question": "The mitochondria is the powerhouse of the cell.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "माइटोकोन्ड्रिया कोशिकाको पावरहाउस हो।",
         "options_ne": [
             "ठीक",
@@ -21711,10 +21711,10 @@
         "type": "boolean",
         "question": "Nutella is produced by the German company Ferrero.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "Nutella जर्मन कम्पनी Ferrero द्वारा उत्पादन गरिएको हो।",
         "options_ne": [
             "ठीक",
@@ -21728,10 +21728,10 @@
         "type": "boolean",
         "question": "Jingle Bells was originally meant for Thanksgiving",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "जिंगल बेल्स मूलतः धन्यवादको लागि थियो",
         "options_ne": [
             "ठीक",
@@ -21745,10 +21745,10 @@
         "type": "boolean",
         "question": "\"Ananas\" is mostly used as the word for Pineapple in other languages.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"अनानास\" प्रायः अन्य भाषाहरूमा अनानासको लागि शब्दको रूपमा प्रयोग गरिन्छ।",
         "options_ne": [
             "ठीक",
@@ -21762,10 +21762,10 @@
         "type": "boolean",
         "question": "Fast food restaurant chains Carl's Jr. and Hardee's are owned by the same company.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "फास्ट फूड रेस्टुरेन्ट चेन कार्ल जूनियर र हार्डी एउटै कम्पनीको स्वामित्वमा छन्।",
         "options_ne": [
             "बेठीक",
@@ -21779,10 +21779,10 @@
         "type": "boolean",
         "question": "Video streaming website YouTube was purchased in it's entirety by Facebook for US$1.65 billion in stock.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "भिडियो स्ट्रिमिङ वेबसाइट युट्युबलाई फेसबुकले १.६५ बिलियन अमेरिकी डलरमा खरिद गरेको थियो।",
         "options_ne": [
             "बेठीक",
@@ -21796,10 +21796,10 @@
         "type": "boolean",
         "question": "When you cry in space, your tears stick to your face.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "जब तपाईं अन्तरिक्षमा रुनुहुन्छ, तपाईंको आँसु तपाईंको अनुहारमा टाँसिन्छ।",
         "options_ne": [
             "ठीक",
@@ -21813,10 +21813,10 @@
         "type": "boolean",
         "question": "Kissing someone for one minute burns about 2 calories.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "कसैलाई एक मिनेटसम्म चुम्बन गर्दा करिब २ क्यालोरी बर्न हुन्छ ।",
         "options_ne": [
             "बेठीक",
@@ -21830,10 +21830,10 @@
         "type": "boolean",
         "question": "Coca-Cola's original colour was green.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "कोका-कोलाको मूल रंग हरियो थियो।",
         "options_ne": [
             "ठीक",
@@ -21847,10 +21847,10 @@
         "type": "boolean",
         "question": "The British organisation CAMRA stands for The Campaign for Real Ale.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "बेलायती संस्था CAMRA को अर्थ The Campaign for Real Ale हो।",
         "options_ne": [
             "बेठीक",
@@ -21864,10 +21864,10 @@
         "type": "boolean",
         "question": "The color orange is named after the fruit.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "सुन्तला रंगको नाम फलको नामबाट राखिएको हो।",
         "options_ne": [
             "बेठीक",
@@ -21881,10 +21881,10 @@
         "type": "boolean",
         "question": "Scotland voted to become an independent country during the referendum from September 2014.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "स्कटल्याण्डले सेप्टेम्बर 2014 मा जनमत संग्रहमा एक स्वतन्त्र देश बन्न मतदान गर्यो।",
         "options_ne": [
             "बेठीक",
@@ -21898,10 +21898,10 @@
         "type": "boolean",
         "question": "The French word to travel is \"Travail\"",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "यात्रा गर्न फ्रान्सेली शब्द \"Travail\" हो",
         "options_ne": [
             "ठीक",
@@ -21915,10 +21915,10 @@
         "type": "boolean",
         "question": "The word \"news\" originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "\"समाचार\" शब्द कम्पास (उत्तर, पूर्व, पश्चिम, दक्षिण) मा 4 मुख्य दिशाहरूको पहिलो अक्षरबाट उत्पन्न हुन्छ।",
         "options_ne": [
             "बेठीक",
@@ -21932,10 +21932,10 @@
         "type": "boolean",
         "question": "Haggis is traditionally ate on Burns Night.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "ह्यागिसलाई परम्परागत रूपमा बर्न्स नाइटमा खाइन्छ।",
         "options_ne": [
             "ठीक",
@@ -21949,10 +21949,10 @@
         "type": "boolean",
         "question": "A pasodoble is a type of Italian pasta sauce.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "पासोडोबल एक प्रकारको इटालियन पास्ता सस हो।",
         "options_ne": [
             "बेठीक",
@@ -21966,10 +21966,10 @@
         "type": "boolean",
         "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "पपकर्नको आविष्कार सन् १८७१ मा संयुक्त राज्य अमेरिकामा फ्रेडरिक डब्ल्यू रुकेहेमले गरेका थिए जहाँ उनले शिकागोको सडकमा खाजा बेच्ने गरेका थिए।",
         "options_ne": [
             "ठीक",
@@ -21983,10 +21983,10 @@
         "type": "boolean",
         "question": "Stagecoach owned \"South West Trains\" before losing the rights to FirstGroup and MTR in March of 2017.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "Stagecoach ले 2017 को मार्च मा FirstGroup र MTR को अधिकार गुमाउनु अघि \"दक्षिण पश्चिम ट्रेन्स\" को स्वामित्व गर्यो।",
         "options_ne": [
             "बेठीक",
@@ -22000,10 +22000,10 @@
         "type": "boolean",
         "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "फ्रान्सिस बेकनले कुखुरालाई हिउँमा भरेर मासु जोगाउने प्रयास गर्दा निमोनियाको घातक केसबाट मृत्यु भयो।",
         "options_ne": [
             "बेठीक",
@@ -22017,10 +22017,10 @@
         "type": "boolean",
         "question": "Albert Einstein had trouble with mathematics when he was in school.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "अल्बर्ट आइन्स्टाइनलाई स्कूलमा हुँदा गणितमा समस्या थियो।",
         "options_ne": [
             "बेठीक",
@@ -22034,10 +22034,10 @@
         "type": "boolean",
         "question": "Slovakia is a member of European Union-",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "स्लोभाकिया युरोपेली संघको सदस्य हो-",
         "options_ne": [
             "ठीक",
@@ -22051,10 +22051,10 @@
         "type": "boolean",
         "question": "The Lego Group was founded in 1932.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "लेगो समूह 1932 मा स्थापित भएको थियो।",
         "options_ne": [
             "ठीक",
@@ -22068,10 +22068,10 @@
         "type": "boolean",
         "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "सेप्टेम्बर ११ को आतंकवादी हमलाका कारण अमेरिकी आपतकालीन हटलाइन ९११ हो।",
         "options_ne": [
             "बेठीक",
@@ -22085,10 +22085,10 @@
         "type": "boolean",
         "question": "\"Typewriter\" is the longest word that can be typed using only the first row on a QWERTY keyboard.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "\"टाइपराइटर\" सबैभन्दा लामो शब्द हो जुन QWERTY किबोर्डमा पहिलो पङ्क्ति प्रयोग गरेर टाइप गर्न सकिन्छ।",
         "options_ne": [
             "ठीक",
@@ -22102,10 +22102,10 @@
         "type": "boolean",
         "question": "NCIS stands for \"Navy Corps Investigative Service\"",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "NCIS को लागि खडा छ \"नौसेना कोर अनुसन्धान सेवा\"",
         "options_ne": [
             "ठीक",
@@ -40914,10 +40914,10 @@
         "type": "boolean",
         "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "जापानी देवता इजानागीले आफ्नी पत्नी इजानामीलाई अंडरवर्ल्डबाट सफलतापूर्वक फिर्ता गरे।",
         "options_ne": [
             "बेठीक",
@@ -40931,10 +40931,10 @@
         "type": "boolean",
         "question": "According to Greek Mythology, Zeus can control lightning.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "ग्रीक पौराणिक कथा अनुसार, जिउसले बिजुली नियन्त्रण गर्न सक्छ।",
         "options_ne": [
             "बेठीक",
@@ -40948,10 +40948,10 @@
         "type": "boolean",
         "question": "In Greek mythology, Hera is the goddess of harvest.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "ग्रीक पौराणिक कथामा, हेरा फसलको देवी हो।",
         "options_ne": [
             "बेठीक",
@@ -40965,10 +40965,10 @@
         "type": "boolean",
         "question": "The Roman god \"Jupiter\" was first known as \"Zeus\" to the Greeks.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "रोमन देवता \"बृहस्पति\" लाई पहिले ग्रीकहरू \"ज्यूस\" भनेर चिनिन्थ्यो।",
         "options_ne": [
             "ठीक",
@@ -40982,10 +40982,10 @@
         "type": "boolean",
         "question": "According to Greek Mythology, Atlas was an Olympian God.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "ग्रीक पौराणिक कथा अनुसार, एटलस एक ओलम्पियन भगवान थियो।",
         "options_ne": [
             "ठीक",
@@ -40999,10 +40999,10 @@
         "type": "boolean",
         "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "रणमारी एक समुद्री राक्षस थियो जसले माल्दिभ्सका मानिसहरूलाई सताएको थियो र एक कुमारी केटीको बलिदानको साथ मासिक रूपमा सन्तुष्ट हुन्थ्यो।",
         "options_ne": [
             "ठीक",
@@ -41016,10 +41016,10 @@
         "type": "boolean",
         "question": "Janus was the Roman god of doorways and passageways.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "जानुस ढोकाहरू र मार्गहरूका रोमन देवता थिए।",
         "options_ne": [
             "ठीक",
@@ -41033,10 +41033,10 @@
         "type": "boolean",
         "question": "A wyvern is the same as a dragon.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "FALSE",
+        "answer": "False",
         "question_ne": "एक wyvern एक ड्रैगन जस्तै हो।",
         "options_ne": [
             "बेठीक",
@@ -41050,10 +41050,10 @@
         "type": "boolean",
         "question": "In Norse mythology, Thor once dressed as a woman.",
         "options": [
-            "TRUE",
-            "FALSE"
+            "True",
+            "False"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "नर्स पौराणिक कथामा, थोरले एक पटक महिलाको रूपमा लुगा लगाए।",
         "options_ne": [
             "ठीक",
@@ -41067,10 +41067,10 @@
         "type": "boolean",
         "question": "According to Norse mythology, Loki is a mother.",
         "options": [
-            "FALSE",
-            "TRUE"
+            "False",
+            "True"
         ],
-        "answer": "TRUE",
+        "answer": "True",
         "question_ne": "नॉर्स पौराणिक कथा अनुसार, लोकी एक आमा हो।",
         "options_ne": [
             "बेठीक",
