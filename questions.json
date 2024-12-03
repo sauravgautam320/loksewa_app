@@ -32995,7 +32995,7 @@
         "id": 1585,
         "category": "Culture",
         "type": "multiple",
-        "question": "What is the traditional game played during the festival of Holi in Nepal?",
+        "question": "What is the traditional way of greeting people in Nepal?",
         "options": [
             "Handshake",
             "Hugging",
@@ -33003,7 +33003,7 @@
             "Namaste"
         ],
         "answer": "Namaste",
-        "question_ne": "नेपालमा होली पर्वमा खेलिने परम्परागत खेल के हो ?",
+        "question_ne": "नेपालमा अभिवादन गर्ने परम्परागत तरिका के हो?",
         "options_ne": [
             "हात मिलाउने",
             "अँगालो हाल्दै",
@@ -34173,20 +34173,20 @@
         "type": "multiple",
         "question": "What is the traditional dish of the Thakali community in Nepal called?",
         "options": [
-            "Lakhey",
-            "Chandi",
-            "Yakshagana",
-            "Panglipa"
+            "Thakali Khana",
+        "Chhatamari",
+        "Momo",
+        "Panglipa"
         ],
-        "answer": "Lakhey",
+        "answer": "Thakali Khana",
         "question_ne": "नेपालमा थकाली समुदायको परम्परागत परिकारलाई के भनिन्छ ?",
         "options_ne": [
-            "लाखे",
-            "चण्डी",
-            "यक्षगान",
-            "पाङ्गलीपा"
+            "थकाली खाना",
+        "छटामरी",
+        "म:म:",
+        "पाङ्गलीपा"
         ],
-        "answer_ne": "लाखे"
+        "answer_ne": "थकाली खाना"
     },
     {
         "id": 1642,
